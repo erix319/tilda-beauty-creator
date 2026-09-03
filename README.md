@@ -2,7 +2,7 @@
 
 Instagram content-maker course — a Tilda landing page.
 
-**Live:** https://erix319.github.io/tilda-beauty-creator/
+**Live:** https://pafuluofu-dev.github.io/tilda-beauty-creator/
 
 ## About
 
